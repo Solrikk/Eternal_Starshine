@@ -1,5 +1,5 @@
 # Eternal_Starshine
-Game
+
 "Hello everyone! I am very excited to share with you the news about the Eternal Strashine project. This game, developed on the Unity engine using the C# programming language, is currently in the beta testing phase. I will gladly share new updates with you and continue to expand this project to make it even better!
 
 Eternal Strashine is an exciting game that immerses you in a captivating world with lots of adventures and puzzles. We are working on creating a unique and captivating storyline, as well as impressive graphics and sound effects.
