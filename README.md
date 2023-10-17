@@ -7,3 +7,6 @@ Eternal Strashine is an exciting game that immerses you in a captivating world w
 If you have any ideas or suggestions for improving the game, please share them with me. I am always open to new ideas and ready to accept any contributions that will help make Eternal Strashine better and more interesting.
 
 Stay tuned for updates on our project! Soon, I will be releasing new versions of the game and providing information about all the changes and additions. Thank you for joining us on this exciting journey!"
+
+# Ver. 0.8
+//
